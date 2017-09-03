@@ -1,0 +1,90 @@
+{
+  "brian": {
+    "password": "brian1",
+    "username": "brian",
+    "balance": 98.31,
+    "history": [
+      {
+        "type": "deposit",
+        "amount": 89.34
+      },
+      {
+        "type": "deposit",
+        "amount": 32.32
+      },
+      {
+        "type": "deposit",
+        "amount": 12.65
+      },
+      {
+        "type": "withdrawal",
+        "amount": 12.76
+      },
+      {
+        "type": "deposit",
+        "amount": 54.76
+      },
+      {
+        "type": "withdrawal",
+        "amount": 78
+      },
+      {
+        "type": "withdrawal",
+        "amount": 0
+      }
+    ]
+  },
+  "frank": {
+    "password": "frank1",
+    "username": "frank",
+    "balance": 32.34,
+    "history": [
+      {
+        "type": "deposit",
+        "amount": 32.34
+      }
+    ]
+  },
+  "larry": {
+    "password": "nance",
+    "username": "larry",
+    "balance": 0,
+    "history": []
+  },
+  "sharry": {
+    "password": "sharry1",
+    "username": "sharry",
+    "balance": 30.330000000000005,
+    "history": [
+      {
+        "type": "deposit",
+        "amount": 65.32
+      },
+      {
+        "type": "withdrawal",
+        "amount": 45.65
+      },
+      {
+        "type": "withdrawal",
+        "amount": 50
+      }
+    ]
+  },
+  "timber": {
+    "password": "timber1",
+    "username": "timber",
+    "balance": 0,
+    "history": []
+  },
+  "corey": {
+    "password": "corey1",
+    "username": "corey",
+    "balance": 0,
+    "history": [
+      {
+        "type": "withdrawal",
+        "amount": 0
+      }
+    ]
+  }
+}
