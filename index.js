@@ -1,5 +1,5 @@
 var jsonfile = require('jsonfile'),
-    userFile = 'customers.json',
+    userFile = 'users.json',
     readlineSync = require('readline-sync'),
     chalk = require('chalk')
 
