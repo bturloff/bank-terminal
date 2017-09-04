@@ -76,7 +76,7 @@ var account = function(username){
     let exit = false;
     while(!exit){
         console.log(colorMenuTitle("\n\nWelcome, " + username));
-        var selected = readlineSync.keyInSelect(["Check Balance", "Record Deposit", "Record Withdrawal", "Transaction History"], 
+        var selected = readlineSync.keyInSelect(["Check Balance", "Deposit", "Withdrawal", "Transaction History"], 
             "Select an option: ", {cancel: "LOGOUT"});
         switch(selected){
             case 0:     console.log('\nCurrent balance: ' + chalk.green( '$' + user.balance.toFixed(2) ));

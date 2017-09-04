@@ -2,7 +2,7 @@
   "brian": {
     "password": "brian1",
     "username": "brian",
-    "balance": 98.31,
+    "balance": 133.08,
     "history": [
       {
         "type": "deposit",
@@ -31,6 +31,10 @@
       {
         "type": "withdrawal",
         "amount": 0
+      },
+      {
+        "type": "deposit",
+        "amount": 34.77
       }
     ]
   },
